@@ -1,3 +1,3 @@
 # testGIT
 
-This is a test for a new respository!
+This is a test for a new respository.
